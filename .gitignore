@@ -377,3 +377,5 @@ WcfServiceLibrary.SampleHost/obj/*
 
 WcfServiceLibrary.WindowsServiceHost/bin/*
 WcfServiceLibrary.WindowsServiceHost/obj/*
+
+.vs/*
