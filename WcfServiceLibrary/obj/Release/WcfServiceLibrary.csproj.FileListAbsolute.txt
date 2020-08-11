@@ -1,0 +1,7 @@
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Release\WcfServiceLibrary.dll.config
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Release\WcfServiceLibrary.dll
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\bin\Release\WcfServiceLibrary.pdb
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Release\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Release\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Release\WcfServiceLibrary.dll
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary\obj\Release\WcfServiceLibrary.pdb

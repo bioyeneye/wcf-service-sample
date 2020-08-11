@@ -1,0 +1,13 @@
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.WindowsServiceHost.exe.config
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.WindowsServiceHost.exe
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.WindowsServiceHost.pdb
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.dll
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.pdb
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\bin\Release\WcfServiceLibrary.dll.config
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.csprojAssemblyReference.cache
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.ProjectInstaller.resources
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.csproj.GenerateResource.cache
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.csproj.CoreCompileInputs.cache
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.csproj.CopyComplete
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.exe
+C:\Projects\WCF\WcfServiceLibrary\WcfServiceLibrary.WindowsServiceHost\obj\Release\WcfServiceLibrary.WindowsServiceHost.pdb
